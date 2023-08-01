@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+<h1> Venda de Frutas - React Context </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Static Badge](https://img.shields.io/badge/Status-_Finalizado-green?style=for-the-badge)
 
-## Available Scripts
+Venda de Frutas é um website onde você pode fazer a compra de frutas, colocando seu nome e saldo e adicionando frutas no seu carrinho, ao final você terá na tela se com o seu saldo você pode comprar e diversas opções de metódo de pagamento, cada um com diferentes valores de juros.
 
-In the project directory, you can run:
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Venda de Frutas**
+| :label: Tecnologias | react, html5, css3, javascript
+| :rocket: URL         | https://tech-learn.vercel.app
 
-### `yarn start`
+<hr>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Venda De Frutas Gif](https://github.com/joaoplgaspar/techLearn/assets/130015259/d932ef07-a127-415f-aa41-7a25379ea88f#vitrinedev)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<hr>
 
-### `yarn test`
+## Resumo do projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O website é um exemplo para sites de comercialização, nesse caso, um comércio de venda de frutas. Com diversas opções de colocar nome e saldo, após isso escolher suas frutas, a todo momento podendo adicionar ou remover do seu carrinho, e na ultima tela concluir a compra, podendo modificar os itens no carrinho, escolher metodo de pagamento e conferir seu saldo final após o pagamento. O site foi criado a partir do React como uma SPA (Single Page Application), com fins de estudos principalmente em contextos do react, com o useContext, causando a interação de informações entre diferentes páginas do projeto. Feito a partir de um curso da ALURA.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# :hammer: Funcionalidades do projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- `Funcionalidade 1`: Colocar nome e saldo, calculando seu saldo ao final da compra
+- `Funcionalidade 2`: Adicionar e remover itens do seu carrinho
+- `Funcionalidade 3`: Interação entre valor com diferentes metódos de pagamento
+- `Funcionalidade 4`: Manuseamento de todos os dados em qualquer página a partir de contextos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Venda De Frutas Gif](https://github.com/joaoplgaspar/techLearn/assets/130015259/d932ef07-a127-415f-aa41-7a25379ea88f#vitrinedev)
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## ✔️ Técnicas e tecnologias utilizadas
+- ``REACT, JAVASCRIPT, HTML5, CSS3``
+- ``Single Page Application``
+- ``React Context com useContext``
