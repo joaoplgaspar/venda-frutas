@@ -34,3 +34,9 @@ O website é um exemplo para sites de comercialização, nesse caso, um comérci
 - ``REACT, JAVASCRIPT, HTML5, CSS3``
 - ``Single Page Application``
 - ``React Context com useContext``
+
+# 🛠️ Abrir e rodar o projeto
+
+**Utilize `npm install` dentro da pasta do projeto para baixar suas pendências**
+
+**A seguir `npm start` para iniciar o projeto**
