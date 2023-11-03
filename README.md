@@ -8,7 +8,7 @@ Venda de Frutas é um website onde você pode fazer a compra de frutas, colocand
 | -------------  | --- |
 | :sparkles: Nome        | **Venda de Frutas**
 | :label: Tecnologias | react, html5, css3, javascript
-| :rocket: URL         | venda-frutas.vercel.app
+| :rocket: URL         | https://venda-frutas.vercel.app
 
 <hr>
 
